@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de596e17-2c30-4694-93f6-e8dc58f94249" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/BirdWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/RaceTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/RepeatedWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_1/ChineseZodiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_1/DaysInAMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_1/DogYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_1/HundredMeterDashAthletes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_1/Quake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_2/Birthdays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_2/MinMaxDiversity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_OOP/Bearing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_OOP/ShelbyPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_OOP/Stacify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_regex/Gas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_regex/GlobalWipeDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_exercise_regex/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KGTsx65jiwfnpy1uAlDXbff91J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/MDI-training/Java-Training-Files/Java/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MDI-training\Java-Training-Files\Java\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de596e17-2c30-4694-93f6-e8dc58f94249" name="Changes" comment="" />
+      <created>1673600133137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673600133137</updated>
+    </task>
+    <servers />
+  </component>
+</project>
